@@ -1,0 +1,13 @@
+body {
+    background-color: #343a40; /* Fundo escuro */
+    color: #ffffff; /* Cor do texto */
+}
+
+.container {
+    max-width: 800px;
+}
+
+.article-content {
+    margin-top: 20px;
+}
+
